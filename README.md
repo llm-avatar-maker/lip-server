@@ -1,4 +1,4 @@
-# MuseTalk Server API (AI-Generated)
+# MuseTalk Server API (AI-Generated Documentation)
 
 A Python server using AIOHTTP that provides API endpoints for preprocessing and inference of talking avatar videos.
 

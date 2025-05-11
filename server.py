@@ -35,7 +35,7 @@ TEMP_DIR.mkdir(exist_ok=True, parents=True)
 # MongoDB setup
 MONGO_URI = "mongodb://172.25.0.1:27017"
 DB_NAME = "avatarcreator"
-COLLECTION_STATUS = "processing_status"
+COLLECTION_STATUS = "processingstatuses"
 COLLECTION_AVATARS = "avatars"
 
 # Create thread pool for CPU-intensive tasks

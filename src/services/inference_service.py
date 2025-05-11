@@ -332,7 +332,7 @@ class InferenceService:
             # Batch inference
             print("Starting frame generation...")
             video_num = len(whisper_chunks)
-            batch_size = 1  # Fixed batch size
+            batch_size = 1
             res_frame_list = []
 
             # Generate frames
